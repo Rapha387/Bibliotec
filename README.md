@@ -1,2 +1,2 @@
 # Bibliotec
-Sistema de gerenciamento de biblioteca
+Sistema Windows Forms de gerenciamento de biblioteca
